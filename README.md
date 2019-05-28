@@ -2,6 +2,7 @@
 
 <div align="center">
 
+[![Travis](https://img.shields.io/travis/ant-design/ant-design-dark-theme/master.svg?style=flat-square)](https://travis-ci.org/ant-design/ant-design-dark-theme)
 [![npm package](https://img.shields.io/npm/v/@ant-design/dark-theme.svg?style=flat-square)](https://www.npmjs.org/package/@ant-design/dark-theme)
 [![NPM downloads](http://img.shields.io/npm/dm/@ant-design/dark-theme.svg?style=flat-square)](http://npmjs.com/@ant-design/dark-theme)
 

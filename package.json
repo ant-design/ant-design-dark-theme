@@ -15,7 +15,7 @@
   "scripts": {
     "tsc": "tsc",
     "prepublishOnly": "npm run tsc",
-    "lint": "eslint src --ext .ts",
+    "lint": "eslint . --ext .ts",
     "lint:fix": "prettier --write '**/*.ts'",
     "test": "npm run tsc && npm run lint"
   },
