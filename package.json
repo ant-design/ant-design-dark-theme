@@ -14,11 +14,10 @@
   },
   "scripts": {
     "tsc": "tsc",
-    "compile": "gulp",
-    "prepublishOnly": "npm run compile",
+    "prepublishOnly": "npm run tsc",
     "lint": "eslint src --ext .ts",
     "lint:fix": "prettier --write '**/*.ts'",
-    "test": "npm run tsc && npm run lint && npm run jest"
+    "test": "npm run tsc && npm run lint"
   },
   "author": "afc163 <afc163@gmail.com>",
   "license": "MIT",
@@ -27,12 +26,9 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^1.6.0",
     "@typescript-eslint/parser": "^1.6.0",
-    "coveralls": "^3.0.3",
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^4.2.0",
     "eslint-plugin-prettier": "^3.0.1",
-    "gulp": "^4.0.2",
-    "gulp-typescript": "^5.0.1",
     "prettier": "^1.16.4",
     "typescript": "^3.4.2"
   }
