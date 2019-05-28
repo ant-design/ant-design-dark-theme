@@ -1,5 +1,6 @@
 import { blue, red, gold } from '@ant-design/colors';
 
+// All antd theme variables: https://github.com/ant-design/ant-design/blob/master/components/style/themes/default.less
 export default {
   '@layout-body-background': '#171717',
   '@background-color-base': '#262626',
