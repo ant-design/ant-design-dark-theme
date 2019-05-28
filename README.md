@@ -1,4 +1,6 @@
-<h1 align="center">Ant Design Dark Theme</h1>
+<h1 align="center">🌚 Ant Design Dark Theme 🌚</h1>
+
+![](https://user-images.githubusercontent.com/8468372/49068242-29b0c400-f261-11e8-9ade-02f9716b06b9.png)
 
 <div align="center">
 
@@ -31,3 +33,5 @@ import darkTheme from '@ant-design/dark-theme';
   },
 },
 ```
+
+Use in Ant Design Pro: https://github.com/ant-design/ant-design-pro/pull/2946/
