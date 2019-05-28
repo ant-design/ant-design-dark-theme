@@ -11,6 +11,8 @@
 
 Dark theme [variables](https://github.com/ant-design/ant-design-dark-theme/blob/master/index.ts) of Ant Design.
 
+> Still being experimental, welcome to try out and help us to improve it.
+
 ![](https://user-images.githubusercontent.com/8468372/49068242-29b0c400-f261-11e8-9ade-02f9716b06b9.png)
 
 </div>
