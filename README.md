@@ -11,6 +11,8 @@
 
 ![](https://user-images.githubusercontent.com/8468372/49068242-29b0c400-f261-11e8-9ade-02f9716b06b9.png)
 
+</div>
+
 ## Install
 
 ```bash
