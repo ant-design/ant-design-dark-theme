@@ -1,7 +1,5 @@
 <h1 align="center">🌚 Ant Design Dark Theme 🌚</h1>
 
-![](https://user-images.githubusercontent.com/8468372/49068242-29b0c400-f261-11e8-9ade-02f9716b06b9.png)
-
 <div align="center">
 
 [![npm package](https://img.shields.io/npm/v/@ant-design/dark-theme.svg?style=flat-square)](https://www.npmjs.org/package/@ant-design/dark-theme)
@@ -9,6 +7,8 @@
 
 [![Dependencies](https://img.shields.io/david/ant-design/ant-design-dark-theme.svg?style=flat-square)](https://david-dm.org/ant-design/ant-design-dark-theme)
 [![DevDependencies](https://img.shields.io/david/dev/ant-design/ant-design-dark-theme.svg?style=flat-square)](https://david-dm.org/ant-design/ant-design-dark-theme?type=dev)
+
+![](https://user-images.githubusercontent.com/8468372/49068242-29b0c400-f261-11e8-9ade-02f9716b06b9.png)
 
 ## Install
 
