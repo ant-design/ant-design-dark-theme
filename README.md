@@ -23,10 +23,6 @@ $ npm install @ant-design/dark-theme
 
 ## Usage
 
-```bash
-$ npm install @ant-design/dark-theme --save
-```
-
 ```js
 import darkTheme from '@ant-design/dark-theme';
 
