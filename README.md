@@ -9,6 +9,8 @@
 [![Dependencies](https://img.shields.io/david/ant-design/ant-design-dark-theme.svg?style=flat-square)](https://david-dm.org/ant-design/ant-design-dark-theme)
 [![DevDependencies](https://img.shields.io/david/dev/ant-design/ant-design-dark-theme.svg?style=flat-square)](https://david-dm.org/ant-design/ant-design-dark-theme?type=dev)
 
+Dark theme [variables](https://github.com/ant-design/ant-design-dark-theme/blob/master/index.ts) of Ant Design.
+
 ![](https://user-images.githubusercontent.com/8468372/49068242-29b0c400-f261-11e8-9ade-02f9716b06b9.png)
 
 </div>
