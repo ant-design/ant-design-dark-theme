@@ -1,3 +1,5 @@
+import { blue, red, gold } from '@ant-design/colors';
+
 export default {
   '@layout-body-background': '#171717',
   '@background-color-base': '#262626',
@@ -18,16 +20,16 @@ export default {
   '@layout-trigger-color': 'fade(#fff, 80%)',
   '@layout-trigger-background': '#313232',
   '@alert-message-color': 'fade(#000, 67%)',
-  '@item-hover-bg': 'fade(#1890ff, 20%)',
-  '@item-active-bg': 'fade(#1890ff, 40%)',
+  '@item-hover-bg': `fade(${blue[5]}, 20%)`,
+  '@item-active-bg': `fade(${blue[5]}, 40%)`,
   '@disabled-color': 'rgba(255, 255, 255, 0.25)',
   '@tag-default-bg': '#262628',
   '@popover-bg': '#262629',
   '@wait-icon-color': 'fade(#fff, 64%)',
-  '@background-color-light': 'fade(#1890ff, 40%)',
+  '@background-color-light': `fade(${blue[5]}, 40%)`,
   '@collapse-header-bg': '#262629',
   '@info-color': '#313133',
-  '@primary-color': '#0050b3',
-  '@highlight-color': '#a8071a',
-  '@warning-color': '#613400',
+  '@primary-color': blue[7],
+  '@highlight-color': red[7],
+  '@warning-color': gold[9],
 };

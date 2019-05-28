@@ -1,6 +1,6 @@
 {
   "name": "@ant-design/dark-theme",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Dark theme variables for Ant Design",
   "main": "index.js",
   "module": "index.js",
@@ -22,6 +22,7 @@
   "author": "afc163 <afc163@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@ant-design/colors": "^3.1.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^1.6.0",
