@@ -1,15 +1,18 @@
 import { blue, red, gold } from '@ant-design/colors';
 
 // All antd theme variables: https://github.com/ant-design/ant-design/blob/master/components/style/themes/default.less
+
 export default {
   '@layout-body-background': '#171717',
   '@background-color-base': '#262626',
   '@body-background': '#404041',
-  '@layout-sider-background': '#001529',
-  '@component-background': '#262626',
+  '@layout-sider-background': '#171F22',
+  '@component-background': '#171F22',
+  '@layout-header-background': '#171F22',
+  '@menu-dark-submenu-bg': '#171F22',
   '@input-bg': '#313133',
   '@btn-default-bg': '#262626',
-  '@border-color-base': '#1e1e1e',
+  '@border-color-base': 'rgba(255, 255, 255, 0.25)',
   '@border-color-split': '#363636',
   '@heading-color': '#E3E3E3',
   '@text-color': '#E3E3E3',
@@ -27,10 +30,10 @@ export default {
   '@tag-default-bg': '#262628',
   '@popover-bg': '#262629',
   '@wait-icon-color': 'fade(#fff, 64%)',
-  '@background-color-light': `fade(${blue[5]}, 40%)`,
+  '@background-color-light': 'fade(${blue[5]}, 40%)',
   '@collapse-header-bg': '#262629',
   '@info-color': '#313133',
-  '@primary-color': blue[7],
+  '@primary-color': '#0A53B0',
   '@highlight-color': red[7],
   '@warning-color': gold[9],
 };
