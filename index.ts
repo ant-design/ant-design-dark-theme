@@ -30,7 +30,7 @@ export default {
   '@tag-default-bg': '#262628',
   '@popover-bg': '#262629',
   '@wait-icon-color': 'fade(#fff, 64%)',
-  '@background-color-light': 'fade(${blue[5]}, 40%)',
+  '@background-color-light': `fade(${blue[5]}, 40%)`,
   '@collapse-header-bg': '#262629',
   '@info-color': '#313133',
   '@primary-color': '#0A53B0',
