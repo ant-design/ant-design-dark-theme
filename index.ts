@@ -51,7 +51,7 @@ export default {
   '@radio-dot-color': '@primary-color',
   '@table-row-hover-bg': '#383847',
   '@item-hover-bg': '#383847',
-  '@alert-text-color': 'fade(@black, 65%)',
+  '@alert-text-color': 'fade(@dark, 65%)',
 
   '@tabs-horizontal-padding': '12px 0',
 
