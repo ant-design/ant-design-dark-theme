@@ -84,11 +84,11 @@ export default {
   '@layout-header-background': '@menu-dark-bg',
 
   // 官网
-  '@site-text-color': '@menu-item-color',
+  '@site-text-color': '@text-color',
   '@site-border-color-split': 'fade(@light, 5)',
   '@site-heading-color': '@heading-color',
   '@site-header-box-shadow': '0 0.3px 0.9px rgba(0, 0, 0, 0.12), 0 1.6px 3.6px rgba(0, 0, 0, 0.12)',
-  '@home-text-color': '@menu-item-color',
+  '@home-text-color': '@text-color',
 
   //自定义需要找设计师
   '@gray-8': '@text-color',
@@ -96,5 +96,5 @@ export default {
   '@skeleton-color': 'rgba(0,0,0,0.8)',
 
   // pro
-  '@pro-header-box-shadow': '0 0.3px 0.9px rgba(0, 0, 0, 0.12), 0 1.6px 3.6px rgba(0, 0, 0, 0.12)',
+  '@pro-header-box-shadow': '@site-header-box-shadow',
 };
