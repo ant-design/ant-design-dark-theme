@@ -1,6 +1,6 @@
 {
   "name": "@ant-design/dark-theme",
-  "version": "0.2.2",
+  "version": "1.0.0",
   "description": "Dark theme variables for Ant Design",
   "main": "index.js",
   "module": "index.js",
