@@ -13,6 +13,8 @@ Dark theme [variables](https://github.com/ant-design/ant-design-dark-theme/blob/
 
 > Still being experimental, welcome to try out and help us to improve it.
 
+<span>Visit <a href="https://antdtheme.com/dark" target="_blank">https://antdtheme.com/dark</a> to preview.</span>
+
 ![](https://user-images.githubusercontent.com/8468372/49068242-29b0c400-f261-11e8-9ade-02f9716b06b9.png)
 
 </div>
