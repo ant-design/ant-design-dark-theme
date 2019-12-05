@@ -15,7 +15,7 @@ Dark theme [variables](https://github.com/ant-design/ant-design-dark-theme/blob/
 
 <span>Visit <a href="https://antdtheme.com/dark" target="_blank">https://antdtheme.com/dark</a> to preview.</span>
 
-![](https://user-images.githubusercontent.com/8468372/49068242-29b0c400-f261-11e8-9ade-02f9716b06b9.png)
+![](https://gw.alipayobjects.com/zos/antfincdn/wp6GpGo%26ID/f31e18a4-2018-4e12-95c6-998e7ac5b2fa.png)
 
 </div>
 

@@ -1,6 +1,6 @@
 {
   "name": "@ant-design/dark-theme",
-  "version": "1.0.3",
+  "version": "2.0.0-beta.1",
   "description": "Dark theme variables for Ant Design",
   "main": "index.js",
   "module": "index.js",
@@ -12,6 +12,9 @@
   "bugs": {
     "url": "https://github.com/ant-design/ant-design-dark-theme/issues"
   },
+  "peerDependencies": {
+    "antd": "^4.0.0-alpha.13"
+  },
   "scripts": {
     "tsc": "tsc",
     "prepublishOnly": "npm run tsc",
@@ -21,9 +24,6 @@
   },
   "author": "afc163 <afc163@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "@ant-design/colors": "^3.1.0"
-  },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.0.0",
     "@typescript-eslint/parser": "^2.0.0",
@@ -31,6 +31,7 @@
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-prettier": "^3.0.1",
     "prettier": "^1.16.4",
+    "antd": "^4.0.0-alpha.13",
     "typescript": "^3.4.2"
   }
 }
