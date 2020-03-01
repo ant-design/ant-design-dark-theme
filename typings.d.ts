@@ -1,1 +1,1 @@
-declare module 'antd/dist/dark';
+declare module 'antd/dist/dark-theme';
