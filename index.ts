@@ -1,6 +1,9 @@
-import dark from 'antd/dist/dark';
+const dark = require('antd/dist/dark-theme');
 
 export default {
+  hack_less: `true:rue;@import "${require.resolve(
+    'antd/lib/style/color/colorPalette.less',
+  )}";`,
   ...dark,
   '@tabs-horizontal-padding': '12px 0',
 
