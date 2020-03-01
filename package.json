@@ -1,6 +1,6 @@
 {
   "name": "@ant-design/dark-theme",
-  "version": "2.0.0-beta.1",
+  "version": "2.0.0",
   "description": "Dark theme variables for Ant Design",
   "main": "index.js",
   "module": "index.js",
@@ -13,7 +13,7 @@
     "url": "https://github.com/ant-design/ant-design-dark-theme/issues"
   },
   "peerDependencies": {
-    "antd": "^4.0.0-alpha.13"
+    "antd": "^4.0.0"
   },
   "scripts": {
     "tsc": "tsc",
