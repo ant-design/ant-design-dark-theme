@@ -35,6 +35,6 @@
     "typescript": "^3.4.2"
   },
   "dependencies": {
-    "@types/node": "^13.7.7"
+    "@types/node": "^14.0.1"
   }
 }
